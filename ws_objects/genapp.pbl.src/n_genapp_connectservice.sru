@@ -168,6 +168,8 @@ If of_GetConnectionInfo ( ls_dbms, ls_database, ls_userid, ls_dbpass, ls_logid, 
 	End Choose
 	
 End If
+
+//asdfkjasldkfj
 end event
 
 on n_genapp_connectservice.create
